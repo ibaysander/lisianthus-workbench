@@ -1,4 +1,4 @@
-baseURL: "https://labrat-vm/"
+baseURL: "http://ibaysander.github.io/lisianthus-workbench/"
 title: Labrat
 paginate: 5
 theme: PaperMod
